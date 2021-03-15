@@ -1,0 +1,69 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(41, 41, 41);
+}
+.hide{
+  display: none;
+}
+.div{
+    display: flex;
+}
+.form{
+    flex-direction: column;
+    display: flex;
+    width: 311px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.form input{
+    margin-top: 10px;
+    height: 30px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+}
+
+table{
+    background-color: white;
+    margin: 40px auto;
+    border: 1px solid blue;
+    
+}
+
+th{
+    margin: 10px;
+    border: 1px solid blue;
+}
+
+.hide{
+    display: none;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.result{
+    margin-top:20px;
+    height:50px;
+    width:60%;
+    background-color: blue;
+    display:flex;
+    align-items:center;
+}
+span{
+    pading:10px 3px;
+    margin-right:20px;
+    border:3px solid black;
+    color:white;
+}

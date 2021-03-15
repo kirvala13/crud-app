@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "firstName": "Johni",
+      "lastName": "Doedr",
+      "phoneNumber": "555555555",
+      "address": "Tbilisi",
+      "gender": "1",
+      "id": 1
+    },
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "555555555",
+      "address": "Tbilisi",
+      "avatar": "https://static.wikia.nocookie.net/marvel_dc/images/a/a6/Batman_Vol_2_2_Variant_Textless.jpg/revision/latest/top-crop/width/360/height/450?cb=20120228075313",
+      "gender": 2
+    },
+    {
+      "firstName": "Akakii",
+      "lastName": "Khotcholavai",
+      "phoneNumber": "555555555",
+      "address": "Tbilisi",
+      "gender": "1",
+      "id": 2
+    },
+    {
+      "firstName": "soso",
+      "lastName": "kirvalidze",
+      "phoneNumber": "213",
+      "address": "rfsda",
+      "gender": "1",
+      "id": 3
+    },
+    {
+      "firstName": "soso",
+      "lastName": "kirvalidze",
+      "phoneNumber": "4234",
+      "address": "dfj",
+      "gender": "1",
+      "id": 4
+    },
+    {
+      "firstName": "soso",
+      "lastName": "dasc",
+      "phoneNumber": "323",
+      "address": "sdac",
+      "gender": "1",
+      "id": 5
+    },
+    {
+      "firstName": "sos",
+      "lastName": "dasc",
+      "phoneNumber": "323",
+      "address": "sdac",
+      "gender": "1",
+      "id": 6
+    },
+    {
+      "firstName": "soso",
+      "lastName": "dasc",
+      "phoneNumber": "323",
+      "address": "sdac",
+      "gender": "1",
+      "id": 7
+    }
+  ],
+  "genders": [
+    {
+      "id": 1,
+      "value": "მამრობითი"
+    },
+    {
+      "id": 2,
+      "value": "მდედრობითი"
+    }
+  ]
+}
